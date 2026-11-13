@@ -1,0 +1,51 @@
+{
+  "info": {
+    "_postman_id": "cea14922-61dd-4196-b9b4-d83b9be5649e",
+    "name": "RESTapi",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "58890039",
+    "_collection_link": "https://go.postman.co/collection/58890039-cea14922-61dd-4196-b9b4-d83b9be5649e?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "testHello",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "apiStudents",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "apiStudentsPathVar",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "exceptionHandling",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "exceptionHandling(NotNumber)",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
